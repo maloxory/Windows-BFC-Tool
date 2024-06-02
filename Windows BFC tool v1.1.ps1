@@ -40,7 +40,7 @@ function CreateBorder {
 }
 
 # Display script information with border
-$title = "Windows Bulk Folder Creator (BFC) v1.0"
+$title = "Windows Bulk Folder Creator (BFC) v1.1"
 $copyright = "Copyright 2024 Magdy Aloxory. All rights reserved."
 $contact = "Contact: maloxory@gmail.com"
 $maxWidth = 50
